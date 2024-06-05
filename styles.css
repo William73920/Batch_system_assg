@@ -80,6 +80,7 @@ a {
   border-radius: 4px;
   font-weight: 500;
   font-size: large;
+  cursor: pointer;
 }
 
 .download__btn a {
@@ -195,6 +196,8 @@ a {
   padding: 10px 40px;
   border-radius: 4px;
 
+  cursor: pointer;
+
   font-size: large;
 }
 .hero__banner-btn2 {
@@ -204,6 +207,7 @@ a {
   gap: 10px;
   border: none;
   font-size: large;
+  cursor: pointer;
 
   padding: 10px 20px;
   background: none;
