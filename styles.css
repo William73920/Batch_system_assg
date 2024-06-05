@@ -3,6 +3,7 @@ body {
   font-family: Mukta;
   background-color: #ffff;
   color: black;
+  overflow-x: hidden;
 }
 
 img {
@@ -13,7 +14,6 @@ img {
   max-width: 1500px;
   margin: 0 auto;
   position: relative;
-  overflow: hidden;
 
   padding: 0 100px;
 }
