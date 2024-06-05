@@ -17,7 +17,11 @@ No external libraries were used in this project. It is built using pure HTML and
 
 The design for this project was created using Figma. You can view the design prototype using the following link:
 
+https://www.figma.com/community/file/1145991068621514311
 
+##Deployed Link 
+
+https://batch-system-assg-e7yqhvgub-william73920s-projects.vercel.app/
 
 ## Running the Project Locally
 
